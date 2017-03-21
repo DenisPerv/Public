@@ -15,9 +15,10 @@ Quick and easy automation test to verify Google Calculators work for Windows 7.
 # External dependencies
 
 You need
-* Node JS (v6.10.0)
-* Node JS modules: Selenium Webdriver (v2.0), Selenium Chrome Driver (v2.0)
-* Windows 7 on your machine
+* Node JS (v6.10.0 or later)
+* Node JS modules: Selenium Webdriver (v2.0), Selenium Chrome Driver
+* Windows 7 or later
+* Google Chrome 55.x or later
 
 # Usage
 
