@@ -20,6 +20,8 @@ You need
 * Windows 7 or later
 * Google Chrome 55.x or later
 
+For correct work you need to put Chrome Driver to your default Node.JS modules path. (https://nodejs.org/api/modules.html)
+
 # Usage
 
 Just change arguments in the function called mytest(driver, expression, expected result) for your test purposes.
